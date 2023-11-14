@@ -49,8 +49,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Use To Code
 
@@ -94,4 +92,3 @@
 </a>
 
 
-![Axel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Axel-Makes-It&custom_title=Axel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
