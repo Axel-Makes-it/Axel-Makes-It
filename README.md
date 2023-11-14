@@ -9,6 +9,7 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://axelDev.com">Axel Santiago</a></b>
+          <img> src="https://www.axeldev.com/static/media/me1.53b796a453bc9a64bdcf.png" alt="axel"
         </samp>
 </h3>
 
@@ -16,7 +17,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer but <b>Front End Focused</b> 」
+    「 I am a full stack web application developer but  <b><a target="_blank" href="https://axelDev.com">Front End Focused</a></b> 」
     <br>
     <br>
   </samp>
