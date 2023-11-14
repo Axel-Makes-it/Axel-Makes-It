@@ -10,6 +10,7 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://axelDev.com">Axel Santiago</a></b>
           <br>
+          <br>
            <img src="https://www.axeldev.com/static/media/me1.53b796a453bc9a64bdcf.png?style=for-the-badge&logo=medium&logoColor=white" width="150px" alt="axel" />
         </samp>
 </h3>
