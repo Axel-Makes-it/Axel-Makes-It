@@ -16,7 +16,7 @@
   <samp>
     <br>
     「 I am a full stack web application developer but <b><a target="_blank" href="https://axelDev.com">Front End Focused</a></b> 」
-    <br>
+    
   </samp>
 </p>
 
